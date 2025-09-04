@@ -1,2 +1,4 @@
-# lab2-site-cis3610
-Site demo-ing structuring the content of your website
+# Lab 2 FALL 2025 CIS3610
+## Content Structure - Structuring the content of your website
+### In this project we practiced website structure as well as senidng user input data to HTML using js
+[Link to site here:](https://dylanmsnyder.github.io/lab2-site-cis3610/)
